@@ -1,7 +1,7 @@
 package com.jinchanc.evryday;
 
 /**
- * @author zhangjin@algorix.co
+ * @author 475636591@qq.com
  * @since 2025/3/24 10:39
  */
 public class Test {

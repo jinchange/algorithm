@@ -1,8 +1,9 @@
 package com.jinchanc.algo;
 
 /**
- * @author zhangjin@algorix.co
+ * @author 475636591@qq.com
  * @since 2025/3/24 10:49
+ * 贪心算法
  */
 public class Greed {
 }

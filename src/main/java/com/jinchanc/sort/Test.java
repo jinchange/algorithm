@@ -1,7 +1,7 @@
 package com.jinchanc.sort;
 
 /**
- * @author zhangjin@algorix.co
+ * @author 475636591@qq.com
  * @since 2025/3/24 10:47
  */
 public class Test {
